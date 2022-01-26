@@ -1,0 +1,13 @@
+.footer__list{
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type:none;
+  padding: 0;
+  margin: 0;
+}
+@media screen and (max-width:670px){
+  .footer__list{
+    display: block;
+    margin: 0 0 48px 0;
+  }
+}
