@@ -5,6 +5,7 @@
   color: #fff;
   position: relative;
   z-index: 1;
+  margin: 0;
 }
 @media screen and (max-width:670px){
   .cover__subtitle{

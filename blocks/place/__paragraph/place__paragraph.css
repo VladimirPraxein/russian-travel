@@ -12,11 +12,6 @@
     font-size: 16px;
   }
 }
-@media screen and (max-width:670px){
-  .place__paragraph{
-    font-size: 16px;
-  }
-}
 @media screen and (max-width:425px){
   .place__paragraph{
     padding: 0 16px;

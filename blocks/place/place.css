@@ -9,13 +9,14 @@
 }
 @media screen and (max-width:1024px){
   .place{
-    grid-template-columns: minmax(150px,440px) auto;
+    grid-template-columns: 440px auto;
     gap:48px 32px;
   }
 }
 @media screen and (max-width:768px){
   .place{
     gap:48px 28px;
+    grid-template-columns: 340px auto;
   }
 }
 @media screen and (max-width:670px){
